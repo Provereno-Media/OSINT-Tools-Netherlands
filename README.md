@@ -2,7 +2,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/2560px-Flag_of_the_Netherlands.svg.png" alt="Netherlands_FLAG"/>
 A list of OSINT tools that may be useful to you when conducting investigations related to Netherlands. Most of resources and tools has versions in Dutch, some are available in English.
 
-Based on the [Awesome Dutch OSINT](https://github.com/sindresorhus/awesome). Rearranded and updated for [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0). Fell free to join!
+Based on the [Awesome Dutch OSINT](https://github.com/sindresorhus/awesome). 
+
+Rearranged and updated for [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0). Feel free to join!
 
 ![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Netherlands?label=Last%20updated)
 
